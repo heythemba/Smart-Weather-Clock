@@ -1,0 +1,9 @@
+.env
+*.bin
+*.elf
+*.o
+build/
+.vscode/
+.vscode
+.idea/
+.vs/
